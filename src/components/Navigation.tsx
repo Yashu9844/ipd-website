@@ -22,7 +22,7 @@ const Navigation = () => {
     <nav className="fixed top-0 w-full z-50 glass-card ">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 ">
         <div className="flex justify-between items-center h-16 ">
-          {/* Logo */}
+          
           <Link to="/" className="flex items-center space-x-3 ">
             <img 
               src="/lovable-uploads/c764919b-6594-4120-90eb-81a5a3c78c65.png" 
