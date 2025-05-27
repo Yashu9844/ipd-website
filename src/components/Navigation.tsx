@@ -32,7 +32,7 @@ const Navigation = () => {
             <span className="font-bold text-xl gradient-text">IPD Club</span>
           </Link>
 
-          {/* Desktop Navigation */}
+         
           <div className="hidden md:flex items-center space-x-8">
             {navItems.map((item) => (
               <Link
